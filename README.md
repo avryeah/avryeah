@@ -1,4 +1,6 @@
-<p></p>
+<p align="center">
+<b><small>AV3R</small></b>
+</p>
 
 <!--
 **avryeah/avryeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
