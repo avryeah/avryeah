@@ -8,7 +8,7 @@
 
 <p align="center">
   <a>
-    <img src="av3r.jpeg" alt="green cover" width="300">
+    <img src="te.png" alt="green cover" width="300">
   </a>
 </p>
 
