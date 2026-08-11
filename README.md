@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
 <b><small>AV3R</small></b>
 </p>
 
@@ -6,9 +6,9 @@
 
 <br>
 
-<p align="center">
+<p align="left">
   <a>
-    <img src="te.png" alt="green cover" width="300">
+    <img src="te.png" alt="green cover" width="400">
   </a>
 </p>
 
