@@ -8,7 +8,7 @@
 
 <p align="center">
   <a>
-    <img src="new green.png" alt="green cover" width="400">
+    <img src="no tint.png" alt="green cover" width="300">
   </a>
 </p>
 
