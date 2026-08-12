@@ -1,5 +1,5 @@
 <p align="left">
-<b><small>AV3R</small></b>
+<i><small>AV3R</small></i>
 </p>
 
 #
