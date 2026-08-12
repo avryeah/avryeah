@@ -18,7 +18,7 @@
 <p align="left">
 <b><sub>I always feel like I'm in the limbo of music creation</sub></b>
   <br>
-  <b><sub>Write, record and produce</sub></b>
+  <b><sub>write, record, produce, cry</sub></b>
   <br>
 </p>
 
