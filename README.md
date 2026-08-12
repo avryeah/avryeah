@@ -13,15 +13,29 @@
 </p>
 
 <br>
-<br>
 
 <p align="left">
 <b><sub>I always feel like I'm in the limbo of music creation</sub></b>
   <br>
-  <b><sub>write, record, produce, repeat</sub></b>
+  <sub>write, record, produce, repeat</sub>
   <br>
-  <b><sub>what do we sound like?</sub></b>
+  <i><sub>what do we sound like?</sub></i>
   <br>
 </p>
+
+#
+
+<p align="left">
+<b><sub>neocity wip</sub></b>
+</p>
+
+
+<p align="left">
+<b><sub>soundcloud │ spotify │ pinterest │ insta</sub></b>
+</p>
+
+
+
+
 
 
