@@ -31,7 +31,7 @@
 
 
 <p align="left">
-<b><sub><a href="https://open.spotify.com/artist/6yPAZ3RgNa1weuyeG7qoUF?si=7uKhkEWJQT6Of-m6BwZfKw">spotify</a> │ 
+<b><sub><a href="https://open.spotify.com/artist/6yPAZ3RgNa1weuyeG7qoUF?si=7uKhkEWJQT6Of-m6BwZfKw" target="_blank">spotify</a> │ 
   <a href="https://soundcloud.com/av3r-869680575?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">soundcloud</a> │ 
   <a href="https://www.instagram.com/avryeah/">insta</a> │ 
   <a href="https://uk.pinterest.com/avryexh/_profile/">pinterest</a>
