@@ -1,4 +1,4 @@
-<p align="right">
+<p align="center">
 <i><small>AV3R</small></i>
 </p>
 
@@ -6,7 +6,7 @@
 
 <br>
 
-<p align="right">
+<p align="center">
   <a>
     <img src="te.png" alt="green cover" width="400">
   </a>
@@ -14,7 +14,7 @@
 
 <br>
 
-<p align="right">
+<p align="center">
 <b><sub>I always feel like I'm in the limbo of music creation</sub></b>
   <br>
   <sub>write, record, produce, repeat</sub>
