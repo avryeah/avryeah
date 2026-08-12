@@ -16,7 +16,10 @@
 <br>
 
 <p align="left">
-<b><sub></sub></b>
+<b><sub>I always feel like I'm in the limbo of music creation</sub></b>
+  <br>
+  <b><sub>Write, record and produce</sub></b>
+  <br>
 </p>
 
 
