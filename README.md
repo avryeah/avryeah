@@ -31,7 +31,7 @@
 
 
 <p align="left">
-<b><sub>soundcloud │ spotify │ pinterest │ insta</sub></b>
+<b><sub>spotify │ soundcloud │ insta │ pinterest</sub></b>
 </p>
 
 
