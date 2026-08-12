@@ -20,6 +20,8 @@
   <br>
   <b><sub>write, record, produce, repeat</sub></b>
   <br>
+  <b><sub>what do we sound like?</sub></b>
+  <br>
 </p>
 
 
